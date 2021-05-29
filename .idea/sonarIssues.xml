@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
@@ -113,12 +118,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/lifecycle/StickLifecycleListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/lifecycle/StickLifecycleListener.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/ui/BeforeLifecycleActivity.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/ui/LifecycleActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/ui/LiveDataActivity.kt">
           <value>
             <set />
           </value>
@@ -168,6 +188,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_livedata.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
           <value>
             <set />
@@ -213,7 +238,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/DianDian/module-yuewan/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../company_project/tuwan_company/TuWanMusic/config.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/app/src/main/java/com/tuwan/myapplication/core/AppLifecycle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/bean/message/MsgCreateKTVMusicTeamBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/pop/BaseCreateKTVTeamPop.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/seatview/state/BaseState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/ui/fragment/CommonChatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/utils/ChatUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/res/layout/fragment_common_chat_music.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/res/layout/item_pop_team_music.xml">
           <value>
             <set />
           </value>

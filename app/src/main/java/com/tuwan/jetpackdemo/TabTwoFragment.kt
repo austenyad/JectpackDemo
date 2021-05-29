@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
 import com.tuwan.jetpackdemo.databinding.FragmentTabTwoBinding
+import com.tuwan.jetpackdemo.lifecycle.StickLifecycleListener
 import com.tuwan.jetpackdemo.ui.BeforeLifecycleActivity
 import com.tuwan.jetpackdemo.ui.LifecycleActivity
 
@@ -39,6 +40,10 @@ class TabTwoFragment : Fragment() {
         }
         mBinding.btnLifecycle.setOnClickListener {
             startActivity(Intent(activity, LifecycleActivity::class.java))
+        }
+        mBinding.btnLifecycleStick.setOnClickListener {
+            lifecycle.addObserver(StickLifecycleListener())
+//            startActivity(Intent(activity, LifecycleActivity::class.java))
         }
     }
 }

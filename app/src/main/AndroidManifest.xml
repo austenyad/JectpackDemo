@@ -19,6 +19,7 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".ui.BeforeLifecycleActivity" />
         <activity android:name=".ui.LifecycleActivity" />
+        <activity android:name=".ui.LiveDataActivity" />
     </application>
 
 </manifest>
