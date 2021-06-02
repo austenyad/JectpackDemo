@@ -6,6 +6,7 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import com.tuwan.jetpackdemo.databinding.ActivityLoginBinding
 import com.tuwan.jetpackdemo.viewmodels.LoginViewModel
+import java.lang.ref.WeakReference
 
 class LoginActivity : AppCompatActivity() {
     private val loginViewModel: LoginViewModel by viewModels()
@@ -23,4 +24,5 @@ class LoginActivity : AppCompatActivity() {
         }
 
     }
+
 }

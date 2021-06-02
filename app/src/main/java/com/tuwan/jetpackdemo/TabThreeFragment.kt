@@ -6,9 +6,11 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.tuwan.jetpackdemo.databinding.FragmentTabOneBinding
 import com.tuwan.jetpackdemo.databinding.FragmentTabThreeBinding
+
 import com.tuwan.jetpackdemo.ui.LiveDataActivity
+import com.tuwan.jetpackdemo.ui.ViewModelDemo2Activity
+import com.tuwan.jetpackdemo.ui.ViewModelDemoActivity
 
 /**
  * Company: TAO_LE
@@ -34,6 +36,12 @@ class TabThreeFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         mBinding.button.setOnClickListener {
             startActivity(Intent(activity, LiveDataActivity::class.java))
+        }
+        mBinding.buttonViewModel.setOnClickListener {
+            startActivity(Intent(activity, ViewModelDemoActivity::class.java))
+        }
+        mBinding.buttonViewModelDataBinding.setOnClickListener {
+            startActivity(Intent(activity, ViewModelDemo2Activity::class.java))
         }
     }
 }

@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/A.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/BeforeLifecycleActivity.kt">
           <value>
             <set />
@@ -158,12 +163,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/ui/ViewModelDemo2Activity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/ui/ViewModelDemoActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/util/Ext.kt">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/util/adapter/CommonBindingAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/viewmodels/LoginViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/viewmodels/MyViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/tuwan/jetpackdemo/viewmodels/MyViewModel2.kt">
           <value>
             <set />
           </value>
@@ -199,6 +229,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_viewmode_demo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_viewmode_demo2.xml">
           <value>
             <set />
           </value>
@@ -248,6 +288,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/GameSdkDemo/gamesdk/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/GameSdkDemo/gamesdk/src/main/java/com/tuwan/gamesdk/logic/login/QQLogin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/GameSdkDemo/gamesdk/src/main/java/com/tuwan/gamesdk/logic/login/WeiXinLogin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ApsaraVideo/module-alivc/src/main/java/com/tuwan/alivc/ui/activity/EditorMediaActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ApsaraVideo/module-alivc/src/main/java/com/tuwan/alivc/utils/music/MusicQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/app/src/main/java/com/tuwan/myapplication/core/AppLifecycle.java">
           <value>
             <set />
@@ -259,6 +324,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/bean/message/MsgCreateKTVMusicTeamBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-ChatRoom/module-chatroom/src/main/java/com/tuwan/chatroom/multiltem/message/music/MusicCreatTeamLOLMultiItem.java">
           <value>
             <set />
           </value>
@@ -294,6 +364,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../company_project/tuwan_company/library/Module-Im/library/module-im/src/main/java/com/tuwan/nim/custommsg/viewholder/MsgViewHolderOrder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dev/project/demo/MVVMArms/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../study/Jetpack-MVVM-Best-Practice/app/src/main/java/com/kunminx/puremusic/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
